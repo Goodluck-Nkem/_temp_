@@ -1,4 +1,6 @@
 This file wants random additions and deletion to make a wierd conflict.
+B:: Add stuff..
+
 A piece of C snippet as follows:
 // If node2 is the head node
     if (prevNode2 == NULL)
@@ -21,3 +23,4 @@ all:
 	./main.prog
 
 EDIT MORE...
+B:: Lines appended by feature3
