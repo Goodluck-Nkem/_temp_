@@ -1,3 +1,6 @@
+A:: (main branch)
+A:: I will write to top, if feature1 writes to bottom, then there should not be merge conflicts.
+
 NOTE: Any line without A:: or B:: or C:: is written when all branches were merged!
 This is File 1
 I wrote stuff here.
