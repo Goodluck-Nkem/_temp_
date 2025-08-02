@@ -16,8 +16,5 @@ A piece of C snippet as follows:
     node2->next = temp;
 
 A mini Makefile, if all was complete:
-all:
-	gcc main.c -g -o main.prog
-	./main.prog
-
-EDIT MORE...
+gcc main.c -g -o main.prog
+./main.prog
