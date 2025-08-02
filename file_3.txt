@@ -1,5 +1,4 @@
-A:: Add on first line
-A:: Add on line2 (main)
+B:: Add on line1 (feature4)
 
 A piece of C snippet as follows:
 // If node2 is the head node
@@ -22,3 +21,4 @@ all:
 	./main.prog
 
 A:: Add on last line -> (main)
+B:: Append on last (feature4)
