@@ -6,3 +6,6 @@ This is File 1
 I wrote stuff here.
 My aim? To test git merge.
 I think it is dangerous that I don't understand it yet.
+
+B:: (feature1 branch)
+B:: As you can see, I am adding content to the bottom!
