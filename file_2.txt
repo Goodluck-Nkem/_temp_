@@ -1,2 +1,10 @@
+B:: feature2 prepend this file as you can see
+B:: Now it will surprise you that main also prepended
+B:: This prepend block was chosen!
+
 This file is intended to cause a conflict.
 Both branches will both prepend and append.
+
+B:: feature2 append this file as you can see
+B:: Now it may surprise you to know that main also appended
+B:: This append block was chosen!
