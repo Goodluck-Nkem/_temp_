@@ -1,5 +1,4 @@
-This file wants random additions and deletion to make a wierd conflict.
-B:: Add stuff..
+B:: Add on line1 (feature4)
 
 A piece of C snippet as follows:
 // If node2 is the head node
@@ -21,5 +20,4 @@ all:
 	gcc main.c -g -o main.prog
 	./main.prog
 
-EDIT MORE...
-B:: Lines appended by feature3
+B:: Append on last (feature4)
