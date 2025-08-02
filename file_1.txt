@@ -1,0 +1,5 @@
+NOTE: Any line without A:: or B:: or C:: is written when all branches were merged!
+This is File 1
+I wrote stuff here.
+My aim? To test git merge.
+I think it is dangerous that I don't understand it yet.
