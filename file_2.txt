@@ -1,0 +1,2 @@
+This file is intended to cause a conflict.
+Both branches will both prepend and append.
