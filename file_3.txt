@@ -5,12 +5,7 @@ A piece of C snippet as follows:
     {
         *head = node1;
     }
-    else
-    {
-        prevNode2->next = node1;
-    }
-
-    // Swap the next pointers of node1 and node2
+    
     Node_t *temp = node1->next;
     node1->next = node2->next;
     node2->next = temp;
