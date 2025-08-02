@@ -1,0 +1,5 @@
+B:: 
+    This file was created by feature2 branch.
+    At this moment, no other branch has touched it!
+B:: feature1 branch has already been deleted after merging with main
+    
