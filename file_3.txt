@@ -1,7 +1,7 @@
 This file wants random additions and deletion to make a wierd conflict.
-A piece of C snippet as follows:
-
 A:: main adds stuff too.
+
+A piece of C snippet as follows:
 
 if (prevNode2 == NULL)
 {
