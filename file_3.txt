@@ -1,5 +1,6 @@
 This file wants random additions and deletion to make a wierd conflict.
 A:: main adds stuff too.
+A:: Add at head
 
 A piece of C snippet as follows:
 
@@ -15,3 +16,4 @@ node2->next = temp;
 A mini Makefile, if all was complete:
 gcc main.c -g -o main.prog
 ./main.prog
+A:: Add at tail
